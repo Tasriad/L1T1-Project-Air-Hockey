@@ -1,0 +1,15 @@
+
+
+Game starts at Wed Apr 13 12:34:25 2022
+WINNER: BOT Score 2 -- 10 Duration: 26.87 sec
+
+Game starts at Wed Apr 13 12:39:33 2022
+Game starts at Wed Apr 13 12:39:59 2022
+WINNER: Player 2 Score 0 -- 10 Duration: 6.20 sec
+
+Game starts at Wed Apr 13 12:41:04 2022
+WINNER: Player 2 Score 0 -- 10 Duration: 4.90 sec
+
+Game starts at Wed Apr 13 12:41:32 2022
+WINNER: Player 2 Score 0 -- 10 Duration: 4.42 sec
+
